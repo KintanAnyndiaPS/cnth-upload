@@ -27,7 +27,7 @@
 
             <thead>
                 <tr>
-                    <th>Nama</th>
+                    <th>Nama dosa</th>
                     <th>NIP</th>
                     <th>Prodi</th>
                     <th>Kompetensi</th>
